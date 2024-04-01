@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.21.3">
+<ModelTarget name="textured_output" targetId="0971687069b04e92b82f2af16a067f70" version="14.0" toolVersion="10.21.3" bbox="-0.092110 -0.026590 -0.091990 0.091710 0.026430 0.091471" previewImage="0971687069b04e92b82f2af16a067f70_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="textured_outputs_assembly" assemblyId="f049fd944f7040faa00b950ef5c7c411">
+<Part name="textured_output" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.00015386 0.000100999 0.52081" rotation="AD: 0.999998 -0.0266135 0.0840959 214.994" image="textured_output_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

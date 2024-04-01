@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.21.3">
+<ModelTarget name="ModelforARandTest_" targetId="0509c01fc3a8463da91e87d60e2a4d0e" version="14.0" toolVersion="10.21.3" bbox="-0.133155 -0.024871 -0.071118 0.148434 0.307105 0.068056" previewImage="0509c01fc3a8463da91e87d60e2a4d0e_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="ModelforARandTest_s_assembly" assemblyId="6872399cce52458b96e8e12e5956a8f1">
+<Part name="ModelforARandTest_" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00178321 0.129024 0.458989" rotation="AD: 0.999787 0.0498718 -0.457526 191.31" image="ModelforARandTest__GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
